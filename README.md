@@ -1,0 +1,2 @@
+# NumberTile--Game
+A game uses square tiles that have numbers on their sides. Each tile is labeled with a number on each of its four sides and may be rotated clockwise. Tiles are placed on a game board so that the adjoining sides of adjacent tiles have the same number. In this game a new tile has to be inserted into a position between two tiles whose adjacent tiles has same number, if not the player can rotata the tiles to instert the new tile.
